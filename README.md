@@ -33,6 +33,10 @@ public_key_location  =
 2-configure aws credentials with specified region and access_id and secret_key
 
 ```
+cd ec2-instance
+```
+
+```
 aws configuration
 ```
 
